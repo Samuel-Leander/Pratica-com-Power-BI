@@ -1,1 +1,1 @@
-# Pra-tica-com-Power-BI
+Repositório com arquivos do Power BI que surgiram de estudos
